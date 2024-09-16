@@ -8,6 +8,13 @@
 
 ---
 
+This projects finds:
+- What are the most common Male and Females names in USA?
+- Which names fell out of fashion and show most up and down trends over the years?
+- What are the top unique names in both genders?
+- In which year were the highest numbers of babies named?
+- Which years have high Female to Male ratio and vice versa?
+
 ## Dataset used:
 
 Data is taken from [ssa.gov](https://www.ssa.gov/oact/babynames/limits.html) which provides zip file containing multiple txts named by years, for example: yob1880.txt, yob1881.txt till yob2023.txt.
